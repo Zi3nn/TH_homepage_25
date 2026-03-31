@@ -1,8 +1,8 @@
 const attendanceRows = [
-  { name: 'Nguyễn Minh Anh', department: 'Kỹ thuật', checkIn: '08:03', status: 'Đúng giờ' },
-  { name: 'Trần Hoàng Nam', department: 'Kinh doanh', checkIn: '08:10', status: 'Đi muộn' },
-  { name: 'Lê Thu Hà', department: 'Thiết kế', checkIn: '07:56', status: 'Đúng giờ' },
-  { name: 'Phạm Gia Huy', department: 'Nhân sự', checkIn: '08:01', status: 'Đúng giờ' },
+  { name: 'Nguyễn Trần Ngọc Duyên', department: 'Kỹ thuật', checkIn: '08:03', status: 'Đúng giờ' },
+  { name: 'Võ Hà Như Thủy', department: 'Kinh doanh', checkIn: '08:10', status: 'Đi muộn' },
+  { name: 'Nguyễn A', department: 'Thiết kế', checkIn: '07:56', status: 'Đúng giờ' },
+  { name: 'Nguyễn B', department: 'Nhân sự', checkIn: '08:01', status: 'Đúng giờ' },
 ];
 
 const barHeights = ['72%', '88%', '61%', '95%', '79%', '68%', '91%'];

@@ -47,10 +47,6 @@ function Features() {
         <div className="section-heading reveal">
           <span className="section-badge">Tính năng nổi bật</span>
           <h2>Tập trung toàn bộ chấm công, timesheet và vận hành nhân sự trên một nền tảng</h2>
-          <p>
-            Thiết kế tối ưu cho doanh nghiệp hiện đại, giúp bộ phận HR, quản lý và nhân viên
-            thao tác dễ dàng mỗi ngày.
-          </p>
         </div>
 
         <div className="feature-grid">

@@ -18,12 +18,12 @@ const benefits = [
   },
   {
     title: 'Tăng hiệu quả theo dõi nhân sự',
-    description: 'Quản lý trạng thái làm việc, hiệu suất và đơn từ trên cùng một giao diện.',
+    description: 'Quản lý trạng thái làm việc, hiệu suất và đơn từ.',
     icon: HiOutlineUserGroup,
   },
   {
     title: 'Dễ mở rộng cho doanh nghiệp',
-    description: 'Phù hợp cho nhiều quy mô công ty, dễ phát triển thêm module về sau.',
+    description: 'Phù hợp cho nhiều quy mô công ty.',
     icon: HiOutlineArrowsPointingOut,
   },
 ];
