@@ -34,11 +34,6 @@ function Benefits() {
       <div className="container benefits-layout">
         <div className="benefits-copy reveal">
           <span className="section-badge">Lợi ích nổi bật</span>
-          <h2>Nâng cao trải nghiệm quản trị nhân sự với giao diện rõ ràng, dễ dùng</h2>
-          <p>
-            Không chỉ đẹp về mặt trình bày, thiết kế còn mô phỏng đúng tinh thần của một hệ
-            thống doanh nghiệp: nhanh, gọn, chuyên nghiệp và đáng tin cậy.
-          </p>
         </div>
 
         <div className="benefits-grid">

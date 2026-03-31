@@ -13,11 +13,6 @@ function DashboardPreview() {
       <div className="container dashboard-section">
         <div className="section-heading reveal">
           <span className="section-badge">Dashboard Preview</span>
-          <h2>Mô phỏng giao diện quản trị trực quan như một sản phẩm thực tế</h2>
-          <p>
-            Khu vực này thể hiện rõ sidebar, topbar, thẻ thống kê, bảng công việc và biểu đồ
-            mô phỏng bằng HTML/CSS để bạn trình bày dễ hơn khi demo.
-          </p>
         </div>
 
         <div className="dashboard-mockup reveal reveal--delay">
@@ -113,9 +108,8 @@ function DashboardPreview() {
                       <span>{row.department}</span>
                       <span>{row.checkIn}</span>
                       <span
-                        className={`status-badge ${
-                          row.status === 'Đi muộn' ? 'status-badge--warning' : 'status-badge--success'
-                        }`}
+                        className={`status-badge ${row.status === 'Đi muộn' ? 'status-badge--warning' : 'status-badge--success'
+                          }`}
                       >
                         {row.status}
                       </span>

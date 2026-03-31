@@ -21,17 +21,10 @@ function Hero() {
         <div className="hero__content reveal">
           <span className="section-badge">Time Tracking Platform</span>
           <h1>Hệ thống quản lý chấm công và timesheet thông minh cho doanh nghiệp</h1>
-          <p className="hero__description">
-            Tối ưu quy trình chấm công, theo dõi hiệu suất và quản lý đơn từ trên một giao
-            diện hiện đại, rõ ràng, phù hợp cho nhân viên, quản lý và bộ phận nhân sự.
-          </p>
 
           <div className="hero__actions">
             <button type="button" className="button button--primary button--large">
               Bắt đầu ngay
-            </button>
-            <button type="button" className="button button--secondary button--large">
-              Xem demo
             </button>
           </div>
 
@@ -41,10 +34,6 @@ function Hero() {
               <span />
               <span />
             </div>
-            <p>
-              Hơn <strong>250+ doanh nghiệp</strong> đang dùng để quản lý chấm công và bảng
-              công mỗi ngày.
-            </p>
           </div>
         </div>
 

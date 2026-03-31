@@ -35,10 +35,6 @@ function Process() {
         <div className="section-heading reveal">
           <span className="section-badge">Quy trình hoạt động</span>
           <h2>Luồng sử dụng rõ ràng từ nhân viên đến quản trị</h2>
-          <p>
-            Giao diện được xây dựng theo quy trình thực tế trong doanh nghiệp để dễ hình dung,
-            dễ thuyết trình và phù hợp cho demo cuối môn.
-          </p>
         </div>
 
         <div className="process-timeline">

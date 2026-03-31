@@ -34,8 +34,8 @@ function Footer() {
           <h4>Liên hệ</h4>
           <ul className="footer__list">
             <li>Email: hello@timesheetpro.vn</li>
-            <li>Điện thoại: 0901 234 567</li>
-            <li>Địa chỉ: 12 Nguyễn Văn Bảo, TP. HCM</li>
+            <li>Điện thoại: 033 602 4090</li>
+            <li>Địa chỉ: PTIT, TP. HCM</li>
           </ul>
         </div>
       </div>
